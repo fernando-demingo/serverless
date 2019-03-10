@@ -54,13 +54,13 @@
 
 ---
 
-# BackEndless
+## BackEndless
 
 [Official link](https://www.backenless.com)
 
 ---
 
-#  FireBase
+##  FireBase
 
 [Official link](https://firebase.google.com)
 
@@ -68,13 +68,13 @@
 
 ---
 
-# Serverless Architecture
+## Serverless Architecture
 
 Serverless computing is a cloud computing model which aims to abstract server management and low-level infrastructure decisions away from developers. In this model, allocation of resources is managed by the cloud provider instead of the application architect, which can bring some serious benefits. In other words, serverless aims to do exactly what it sounds like — allow applications to be developed without concerns for implementing, tweaking, or scaling a server (at least, to the perspective of a user).
 
 ---
 
-# Function As a Service (FaaS)
+## Function As a Service (FaaS)
 
 Function as a service (**FaaS**) is a category of cloud computing services that provides a platform allowing customers to develop, run, and manage application functionalities without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.
 
@@ -82,7 +82,7 @@ Function as a service (**FaaS**) is a category of cloud computing services that 
 
 ---
 
-## Providers
+### Providers
 
 - AWS Lambda, was the first FaaS offering by a large public cloud vendor, followed by 
 - Google Cloud Functions, 
